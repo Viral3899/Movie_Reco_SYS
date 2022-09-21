@@ -1,6 +1,3 @@
 pandas
-scikeras
 scikit-learn
-scikit-learn-intelex
-scikit-optimize
 streamlit
